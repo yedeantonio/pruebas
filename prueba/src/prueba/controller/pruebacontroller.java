@@ -2,7 +2,7 @@ package prueba.controller;
 
 public class pruebacontroller {
 	
-	private int pe;
+	private int pey44;
 	private String nuevo;
 	private void sysog() {
 	 
